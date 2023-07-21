@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T08:41:29.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZjsI58_heEygTX2nVrc8" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T08:42:26.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_HL7fNBYk7arxzJ99x3h" version="21.6.5" type="github">
   <diagram name="페이지-1" id="ciY3IhIfSriye4W27SwN">
     <mxGraphModel dx="1421" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,6 +50,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="230" as="sourcePoint" />
             <mxPoint x="300" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O262PkwjfAipwRfIdHsJ-17" value="가입일" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O262PkwjfAipwRfIdHsJ-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O262PkwjfAipwRfIdHsJ-3" target="O262PkwjfAipwRfIdHsJ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="230" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
