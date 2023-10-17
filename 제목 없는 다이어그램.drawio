@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T07:59:54.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="F2cNCe_7j3Vg0191Feh4" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T08:14:46.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Zwd9w69_gAp6j8aS2d2O" version="22.0.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="f-_wi2J1KZvEkqLkRZYt-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-_wi2J1KZvEkqLkRZYt-30" target="f-_wi2J1KZvEkqLkRZYt-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f-_wi2J1KZvEkqLkRZYt-30" value="프로필" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f-_wi2J1KZvEkqLkRZYt-30" value="프로필&lt;br&gt;(내 피드)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f-_wi2J1KZvEkqLkRZYt-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f-_wi2J1KZvEkqLkRZYt-31" target="f-_wi2J1KZvEkqLkRZYt-44">
@@ -94,17 +94,23 @@
         <mxCell id="f-_wi2J1KZvEkqLkRZYt-46" value="해시태그 검색&lt;br&gt;게시글 내용 검색&lt;br&gt;상품이름 검색&lt;br&gt;닉네임 검색&lt;br&gt;카테고리 선택" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="130" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="f-_wi2J1KZvEkqLkRZYt-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-_wi2J1KZvEkqLkRZYt-47" target="f-_wi2J1KZvEkqLkRZYt-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f-_wi2J1KZvEkqLkRZYt-47" value="아이디&amp;nbsp;&lt;br&gt;게시물 번호&lt;br&gt;상품 이미지&lt;br&gt;해시태그&lt;br&gt;좋아요&lt;br&gt;댓글 내용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="20" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f-_wi2J1KZvEkqLkRZYt-52" value="프로필 사진&lt;br&gt;아이디&lt;br&gt;팔로워&lt;br&gt;팔로잉&lt;br&gt;게시글&lt;br&gt;게시물&lt;br&gt;좋아요 게시물&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="345" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f-_wi2J1KZvEkqLkRZYt-62" value="이미지 클릭시 &lt;br&gt;메인페이지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f-_wi2J1KZvEkqLkRZYt-62" value="해당하는 이미지 &lt;br&gt;클릭시 &lt;br&gt;메인페이지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f-_wi2J1KZvEkqLkRZYt-65" value="실패" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-_wi2J1KZvEkqLkRZYt-67" value="상대방 아이디 클릭시&lt;br&gt;상대방 피드 이동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="25" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
